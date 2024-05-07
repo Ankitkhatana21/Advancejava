@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;RegisterDriver.java&apos; to &apos;LoadDriverSetupone/src/com.jsp.loaddriver&apos;&#x0D;&#x0A;- Original project: &apos;LoadDriverSetupone&apos;&#x0D;&#x0A;- Destination element: &apos;LoadDriverSetupone/src/com.jsp.loaddriver&apos;&#x0D;&#x0A;- Original element: &apos;RegisterDriver.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.jsp.loaddriver" element1="/src&lt;{RegisterDriver.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1713177294912" units="1" version="1.0"/>
+</session>
